@@ -1,0 +1,1001 @@
+Transaction ID,Item,Quantity,Price Per Unit,Total Sales,Payment Method,Location,Transaction Date
+TXN_1961373,Coffee,2,2,4,Credit Card,Takeaway,08-09-2023
+TXN_4977031,Cake,4,3,12,Cash,In-Store,16-05-2023
+TXN_4271903,Cookie,4,1,4,Credit Card,In-Store,19-07-2023
+TXN_7034554,Salad,2,5,10,Phonepay,Online,27-04-2023
+TXN_3160411,Coffee,2,2,4,Digital Wallet,In-Store,11-06-2023
+TXN_2602893,Smoothie,5,4,20,Credit Card,Online,31-03-2023
+TXN_6699534,Sandwich,4,4,16,Cash,Online,28-10-2023
+TXN_4717867,Tea,5,3,15,Phonepay,Takeaway,28-07-2023
+TXN_2064365,Sandwich,5,4,20,Phonepay,In-Store,31-12-2023
+TXN_2548360,Salad,5,5,25,Cash,Takeaway,07-11-2023
+TXN_3051279,Sandwich,2,4,8,Credit Card,Takeaway,06-02-2023
+TXN_7619095,Sandwich,2,4,8,Cash,In-Store,03-05-2023
+TXN_9437049,Cookie,5,1,5,Phonepay,Takeaway,01-06-2023
+TXN_8915701,Pizza,2,1.5,3,Phonepay,In-Store,21-03-2023
+TXN_2847255,Salad,3,5,15,Credit Card,In-Store,15-11-2023
+TXN_3765707,Sandwich,1,4,4,Phonepay,Online,10-06-2023
+TXN_6769710,Juice,2,3,6,Cash,In-Store,24-02-2023
+TXN_8876618,Cake,5,3,15,Cash,Online,25-03-2023
+TXN_3709394,Juice,4,3,12,Cash,Takeaway,15-01-2023
+TXN_3522028,Smoothie,5,4,20,Cash,In-Store,04-04-2023
+TXN_3567645,Smoothie,4,4,16,Credit Card,Takeaway,30-03-2023
+TXN_5132361,Sandwich,3,4,12,Digital Wallet,Takeaway,01-12-2023
+TXN_2616390,Sandwich,2,4,8,Phonepay,Online,18-09-2023
+TXN_9400181,Sandwich,5,4,20,Cash,In-Store,03-06-2023
+TXN_7958992,Smoothie,3,4,12,Phonepay,Online,13-12-2023
+TXN_5183041,Cookie,5,1,5,Credit Card,In-Store,20-04-2023
+TXN_5695074,Juice,4,3,12,Credit Card,Takeaway,10-04-2023
+TXN_8467949,Smoothie,5,4,20,Credit Card,Online,11-03-2023
+TXN_7640952,Cake,4,3,12,Digital Wallet,Takeaway,06-02-2023
+TXN_1736287,Tea,5,2,10,Digital Wallet,Online,02-06-2023
+TXN_8927252,Pizza,2,1,2,Credit Card,Online,06-11-2023
+TXN_9677376,Smoothie,4,4,16,Phonepay,In-Store,15-08-2023
+TXN_7710508,Pizza,5,1,5,Cash,Online,06-02-2023
+TXN_8853997,Smoothie,2,4,8,Digital Wallet,Takeaway,09-10-2023
+TXN_9130559,Sandwich,1,4,4,Credit Card,Online,28-05-2023
+TXN_6855453,Pizza,4,3,12,Phonepay,In-Store,17-07-2023
+TXN_1080432,Salad,2,5,10,Credit Card,In-Store,29-04-2023
+TXN_2655815,Smoothie,4,4,16,Phonepay,Takeaway,08-06-2023
+TXN_6688524,Coffee,4,2,8,Phonepay,Online,29-06-2023
+TXN_2083138,Smoothie,3,4,12,Phonepay,In-Store,17-04-2023
+TXN_2427584,Sandwich,4,4,16,Phonepay,Takeaway,22-12-2023
+TXN_6650263,Tea,2,1.5,3,Phonepay,Takeaway,10-01-2023
+TXN_9620080,Juice,4,3,12,Phonepay,Takeaway,02-10-2023
+TXN_1491578,Cookie,2,1,2,Phonepay,Online,23-02-2023
+TXN_5455792,Salad,3,5,15,Cash,Online,22-03-2023
+TXN_8078640,Juice,4,3,12,Digital Wallet,In-Store,03-11-2023
+TXN_9499313,Juice,5,3,15,Phonepay,Online,02-03-2023
+TXN_8201146,Juice,5,3,15,Cash,Online,26-06-2023
+TXN_7742742,Cake,5,3,15,Phonepay,Takeaway,05-09-2023
+TXN_6342161,Salad,5,5,25,Phonepay,Takeaway,08-01-2023
+TXN_8914892,Pizza,5,5,25,Digital Wallet,Online,15-03-2023
+TXN_3363746,Smoothie,3,4,12,Credit Card,Online,25-11-2023
+TXN_8614868,Smoothie,5,4,20,Digital Wallet,Takeaway,05-12-2023
+TXN_5522862,Cookie,2,1,2,Credit Card,Takeaway,19-03-2023
+TXN_3578141,Cake,5,3,15,Phonepay,Takeaway,27-06-2023
+TXN_2080895,Cake,1,3,3,Digital Wallet,In-Store,19-04-2023
+TXN_6421134,Sandwich,4,4,16,Cash,Takeaway,03-11-2023
+TXN_8813311,Juice,5,3,15,Phonepay,In-Store,07-10-2023
+TXN_9023317,Salad,1,5,5,Phonepay,Online,30-09-2023
+TXN_8051289,Tea,1,3,3,Phonepay,In-Store,09-10-2023
+TXN_2537617,Sandwich,1,4,4,Cash,Online,27-05-2023
+TXN_9099694,Pizza,3,5,15,Phonepay,Takeaway,18-11-2023
+TXN_9230615,Smoothie,4,4,16,Digital Wallet,Online,01-06-2023
+TXN_8501819,Juice,2,3,6,Cash,Online,30-03-2023
+TXN_3068204,Cookie,1,1,1,Credit Card,Takeaway,03-10-2023
+TXN_8427104,Salad,2,5,10,Phonepay,In-Store,27-10-2023
+TXN_8471743,Pizza,5,3,15,Digital Wallet,In-Store,06-04-2023
+TXN_2621580,Tea,2,1.5,3,Cash,In-Store,22-03-2023
+TXN_4726376,Cake,2,3,6,Credit Card,In-Store,31-01-2023
+TXN_6044979,Tea,1,1,1,Cash,In-Store,08-12-2023
+TXN_4238417,Salad,2,5,10,Phonepay,Online,19-06-2023
+TXN_1900620,Smoothie,2,4,8,Credit Card,Online,14-12-2023
+TXN_6420335,Coffee,1,2,2,Cash,Takeaway,16-07-2023
+TXN_3858209,Sandwich,4,4,16,Cash,Online,22-02-2023
+TXN_2091733,Salad,1,5,5,Phonepay,In-Store,06-02-2023
+TXN_8735480,Tea,5,1.5,8,Cash,Online,02-06-2023
+TXN_3829165,Juice,4,3,12,Cash,In-Store,15-06-2023
+TXN_3748616,Coffee,2,2,4,Credit Card,In-Store,09-12-2023
+TXN_1993289,Sandwich,2,4,8,Phonepay,In-Store,18-04-2023
+TXN_2123367,Cookie,2,1,2,Phonepay,Online,07-11-2023
+TXN_5107946,Cake,4,3,12,Credit Card,Online,22-12-2023
+TXN_8035512,Tea,3,1.5,4,Cash,Online,29-10-2023
+TXN_8718498,Cake,5,3,15,Credit Card,Online,30-04-2023
+TXN_3955361,Cookie,5,1,5,Phonepay,Takeaway,02-04-2023
+TXN_9487821,Pizza,1,5,5,Digital Wallet,Takeaway,24-05-2023
+TXN_4132730,Tea,5,1,5,Phonepay,In-Store,12-03-2023
+TXN_8976658,Tea,2,1.5,3,Credit Card,In-Store,16-08-2023
+TXN_5455936,Pizza,5,3,15,Phonepay,In-Store,28-10-2023
+TXN_2725602,Juice,5,3,15,Credit Card,Online,10-09-2023
+TXN_3011323,Coffee,3,2,6,Credit Card,Online,07-03-2023
+TXN_8268061,Salad,3,5,15,Phonepay,Takeaway,20-08-2023
+TXN_5220895,Salad,5,5,25,Cash,In-Store,10-06-2023
+TXN_3085509,Coffee,4,2,8,Digital Wallet,In-Store,15-04-2023
+TXN_9999113,Juice,4,3,12,Cash,Takeaway,27-05-2023
+TXN_8779771,Coffee,4,2,8,Cash,In-Store,25-07-2023
+TXN_9517146,Tea,5,5,25,Cash,Takeaway,30-10-2023
+TXN_1621920,Salad,3,5,15,Phonepay,Takeaway,28-10-2023
+TXN_3808639,Juice,2,3,6,Digital Wallet,Takeaway,15-12-2023
+TXN_7028009,Cake,4,3,12,Phonepay,Takeaway,06-02-2023
+TXN_7447872,Juice,2,3,6,Phonepay,Online,06-02-2023
+TXN_6955416,Salad,4,5,20,Phonepay,In-Store,25-02-2023
+TXN_3775339,Cookie,3,1,3,Credit Card,Online,03-04-2023
+TXN_9547091,Cookie,3,1,3,Credit Card,Online,08-10-2023
+TXN_4358673,Cookie,5,1,5,Digital Wallet,Takeaway,28-12-2023
+TXN_4174591,Tea,4,1.5,6,Digital Wallet,Online,30-08-2023
+TXN_3398520,Sandwich,1,4,4,Phonepay,In-Store,03-02-2023
+TXN_6171384,Smoothie,2,4,8,Credit Card,Online,12-09-2023
+TXN_2530938,Smoothie,5,4,20,Phonepay,Takeaway,27-04-2023
+TXN_3092382,Coffee,5,2,10,Digital Wallet,Online,21-02-2023
+TXN_1001832,Salad,2,5,10,Cash,Takeaway,06-02-2023
+TXN_4633784,Pizza,5,3,15,Phonepay,In-Store,06-02-2023
+TXN_4368416,Salad,2,5,10,Credit Card,Takeaway,24-02-2023
+TXN_9790731,Cake,2,3,6,Phonepay,Online,02-06-2023
+TXN_9339456,Coffee,3,2,6,Phonepay,Takeaway,29-03-2023
+TXN_5179020,Cake,2,3,6,Phonepay,Takeaway,18-06-2023
+TXN_6258471,Coffee,5,2,10,Digital Wallet,In-Store,23-09-2023
+TXN_4685453,Tea,4,1.5,6,Cash,In-Store,14-09-2023
+TXN_9646452,Juice,5,3,15,Credit Card,Online,16-09-2023
+TXN_9096052,Smoothie,4,4,16,Credit Card,Takeaway,28-12-2023
+TXN_5916991,Juice,2,3,6,Digital Wallet,Takeaway,06-02-2023
+TXN_3407169,Sandwich,2,4,8,Cash,In-Store,11-03-2023
+TXN_2277042,Tea,1,1.5,2,Cash,Online,08-04-2023
+TXN_9273729,Tea,1,1.5,2,Phonepay,Online,19-12-2023
+TXN_2181545,Juice,4,3,12,Credit Card,Takeaway,14-07-2023
+TXN_1150033,Juice,5,3,15,Cash,In-Store,18-04-2023
+TXN_1443912,Juice,2,3,6,Phonepay,Online,08-06-2023
+TXN_8700451,Tea,5,1.5,8,Credit Card,Takeaway,12-12-2023
+TXN_6380550,Coffee,5,2,10,Cash,In-Store,05-01-2023
+TXN_4885518,Salad,3,5,15,Credit Card,In-Store,10-06-2023
+TXN_3972167,Sandwich,5,4,20,Phonepay,In-Store,23-01-2023
+TXN_4878378,Tea,1,1.5,2,Credit Card,Online,20-02-2023
+TXN_2368126,Cake,5,3,15,Phonepay,In-Store,06-12-2023
+TXN_7943008,Coffee,1,2,2,Credit Card,Online,06-02-2023
+TXN_8495063,Juice,1,3,3,Cash,Online,31-05-2023
+TXN_4811133,Salad,2,5,10,Cash,Online,11-08-2023
+TXN_8729570,Tea,5,1.5,8,Phonepay,In-Store,03-09-2023
+TXN_7623634,Cake,2,3,6,Credit Card,In-Store,11-07-2023
+TXN_9336980,Salad,4,5,20,Cash,In-Store,06-06-2023
+TXN_3424331,Cake,4,3,12,Phonepay,Online,18-01-2023
+TXN_5072031,Cake,2,3,6,Cash,Takeaway,23-03-2023
+TXN_8687151,Salad,5,5,25,Cash,Online,10-06-2023
+TXN_4031509,Tea,4,4,16,Credit Card,Takeaway,04-01-2023
+TXN_5265095,Coffee,1,2,2,Phonepay,Online,23-06-2023
+TXN_6541415,Pizza,4,3,12,Cash,In-Store,25-11-2023
+TXN_4108138,Coffee,5,2,10,Cash,Online,03-08-2023
+TXN_1909796,Smoothie,2,4,8,Phonepay,Takeaway,12-07-2023
+TXN_1928241,Coffee,3,2,6,Cash,In-Store,30-04-2023
+TXN_4283157,Salad,5,5,25,Digital Wallet,In-Store,25-11-2023
+TXN_8013032,Coffee,2,2,4,Credit Card,Online,07-03-2023
+TXN_8301424,Juice,2,3,6,Phonepay,Online,27-06-2023
+TXN_1093800,Sandwich,3,4,12,Cash,Takeaway,06-02-2023
+TXN_7965998,Juice,1,3,3,Credit Card,In-Store,02-11-2023
+TXN_9238666,Cookie,1,1,1,Phonepay,Takeaway,31-07-2023
+TXN_1631695,Tea,2,1.5,3,Phonepay,In-Store,19-09-2023
+TXN_1435086,Cake,5,3,15,Phonepay,Online,09-02-2023
+TXN_3226832,Pizza,5,4,20,Cash,Online,04-09-2023
+TXN_1648671,Sandwich,3,4,12,Cash,Takeaway,21-05-2023
+TXN_3494565,Tea,2,4,8,Phonepay,Online,10-07-2023
+TXN_9249507,Cookie,4,1,4,Credit Card,In-Store,21-11-2023
+TXN_4689500,Sandwich,4,4,16,Phonepay,Online,02-12-2023
+TXN_8989148,Tea,2,1.5,3,Phonepay,Online,25-11-2023
+TXN_8316826,Coffee,3,2,6,Phonepay,In-Store,17-04-2023
+TXN_9836934,Cookie,3,1,3,Digital Wallet,In-Store,13-03-2023
+TXN_6463132,Cookie,5,1,5,Credit Card,Takeaway,06-02-2023
+TXN_3925836,Cookie,3,1,3,Digital Wallet,In-Store,16-02-2023
+TXN_1896955,Salad,5,5,25,Phonepay,In-Store,23-09-2023
+TXN_5075974,Smoothie,4,4,16,Digital Wallet,Online,11-04-2023
+TXN_3978874,Smoothie,5,4,20,Credit Card,In-Store,13-03-2023
+TXN_8955912,Sandwich,1,4,4,Phonepay,Online,07-11-2023
+TXN_1136554,Smoothie,3,4,12,Phonepay,Takeaway,26-03-2023
+TXN_8007337,Cake,2,3,6,Digital Wallet,Takeaway,01-11-2023
+TXN_8129834,Salad,1,5,5,Cash,Online,22-07-2023
+TXN_3831848,Pizza,1,4,4,Digital Wallet,Takeaway,03-11-2023
+TXN_8166407,Smoothie,2,4,8,Phonepay,Online,26-07-2023
+TXN_6629480,Smoothie,5,4,20,Credit Card,In-Store,28-02-2023
+TXN_3833797,Coffee,4,2,8,Phonepay,In-Store,27-01-2023
+TXN_2643815,Cookie,3,1,3,Phonepay,Online,06-12-2023
+TXN_2996519,Cake,5,3,15,Cash,Online,19-01-2023
+TXN_8810894,Smoothie,1,4,4,Phonepay,Online,20-02-2023
+TXN_7412722,Juice,4,3,12,Cash,In-Store,07-04-2023
+TXN_3937509,Smoothie,2,4,8,Phonepay,In-Store,20-03-2023
+TXN_6000201,Cookie,3,1,3,Cash,Takeaway,16-02-2023
+TXN_1714274,Cookie,4,1,4,Phonepay,In-Store,27-12-2023
+TXN_3800182,Tea,2,1.5,3,Cash,In-Store,26-10-2023
+TXN_5115080,Tea,5,3,15,Credit Card,Online,18-02-2023
+TXN_9788956,Juice,4,3,12,Phonepay,Online,11-04-2023
+TXN_2950680,Coffee,2,2,4,Credit Card,Takeaway,10-12-2023
+TXN_6749847,Cake,2,3,6,Credit Card,Online,15-08-2023
+TXN_2143187,Smoothie,1,4,4,Phonepay,In-Store,21-04-2023
+TXN_4088917,Coffee,3,2,6,Cash,Takeaway,04-02-2023
+TXN_3779366,Cookie,1,1,1,Digital Wallet,In-Store,15-04-2023
+TXN_7724048,Smoothie,1,4,4,Phonepay,In-Store,12-11-2023
+TXN_2698591,Tea,5,1.5,8,Phonepay,Online,05-08-2023
+TXN_3171373,Smoothie,3,4,12,Credit Card,In-Store,10-05-2023
+TXN_4129248,Sandwich,2,4,8,Credit Card,Online,06-02-2023
+TXN_6498163,Smoothie,5,4,20,Phonepay,In-Store,15-07-2023
+TXN_6717827,Pizza,3,5,15,Digital Wallet,Online,15-11-2023
+TXN_9089898,Salad,3,5,15,Credit Card,Online,11-01-2023
+TXN_8587583,Cake,1,3,3,Phonepay,Online,01-10-2023
+TXN_8693704,Salad,5,5,25,Cash,In-Store,04-05-2023
+TXN_3857960,Salad,4,5,20,Cash,In-Store,26-04-2023
+TXN_3499124,Pizza,4,4,16,Credit Card,Online,25-08-2023
+TXN_9250710,Salad,1,5,5,Cash,In-Store,28-05-2023
+TXN_7058377,Juice,1,3,3,Phonepay,Takeaway,30-04-2023
+TXN_6766492,Salad,1,5,5,Phonepay,Online,14-01-2023
+TXN_9879996,Coffee,4,2,8,Digital Wallet,In-Store,01-03-2023
+TXN_7433461,Cookie,2,1,2,Digital Wallet,Online,09-07-2023
+TXN_4068262,Salad,2,5,10,Credit Card,Online,13-05-2023
+TXN_5761073,Cookie,1,1,1,Cash,In-Store,06-02-2023
+TXN_5047447,Salad,1,5,5,Digital Wallet,Takeaway,27-12-2023
+TXN_6623508,Cookie,5,1,5,Digital Wallet,Takeaway,18-05-2023
+TXN_2651216,Pizza,3,4,12,Phonepay,Online,04-04-2023
+TXN_9350833,Cake,1,3,3,Cash,Takeaway,17-01-2023
+TXN_8377564,Cake,5,3,15,Phonepay,In-Store,14-07-2023
+TXN_7031118,Salad,1,5,5,Credit Card,Online,29-03-2023
+TXN_2230167,Cake,4,3,12,Digital Wallet,Takeaway,22-09-2023
+TXN_6446616,Tea,3,1.5,4,Phonepay,Online,30-09-2023
+TXN_1721827,Cake,4,3,12,Digital Wallet,Online,22-08-2023
+TXN_6334895,Smoothie,1,4,4,Credit Card,Online,27-07-2023
+TXN_7077119,Pizza,1,4,4,Digital Wallet,In-Store,30-12-2023
+TXN_4700144,Coffee,4,2,8,Phonepay,In-Store,21-12-2023
+TXN_5526852,Sandwich,5,4,20,Digital Wallet,In-Store,28-09-2023
+TXN_6846228,Salad,3,5,15,Phonepay,In-Store,16-11-2023
+TXN_8570890,Juice,4,3,12,Phonepay,Online,14-04-2023
+TXN_3205009,Pizza,2,1.5,3,Cash,In-Store,03-01-2023
+TXN_3786188,Tea,3,1.5,4,Credit Card,In-Store,20-10-2023
+TXN_4530804,Coffee,4,2,8,Phonepay,Online,12-01-2023
+TXN_9642066,Sandwich,3,4,12,Credit Card,In-Store,31-08-2023
+TXN_7328294,Juice,2,3,6,Cash,Online,07-07-2023
+TXN_1908636,Tea,2,1.5,3,Phonepay,Online,06-02-2023
+TXN_9238066,Tea,5,1.5,8,Digital Wallet,In-Store,15-09-2023
+TXN_5415901,Cake,2,3,6,Digital Wallet,Online,21-10-2023
+TXN_6714420,Pizza,2,3,6,Credit Card,Takeaway,30-03-2023
+TXN_6616971,Juice,2,3,6,Digital Wallet,Takeaway,02-09-2023
+TXN_7803615,Salad,3,5,15,Cash,In-Store,13-12-2023
+TXN_7549542,Cookie,5,1,5,Phonepay,Takeaway,06-02-2023
+TXN_3544789,Tea,4,1.5,6,Phonepay,In-Store,14-07-2023
+TXN_1583597,Salad,1,5,5,Cash,In-Store,10-05-2023
+TXN_8472308,Cookie,2,1,2,Digital Wallet,Takeaway,19-08-2023
+TXN_1967565,Smoothie,5,4,20,Credit Card,Takeaway,31-03-2023
+TXN_2029497,Sandwich,2,4,8,Cash,Takeaway,06-01-2023
+TXN_5003018,Cookie,4,1,4,Digital Wallet,Online,06-02-2023
+TXN_7852990,Sandwich,5,4,20,Digital Wallet,Takeaway,10-07-2023
+TXN_2534066,Salad,2,5,10,Cash,Online,13-10-2023
+TXN_2059647,Tea,1,1.5,2,Digital Wallet,In-Store,29-05-2023
+TXN_2485183,Smoothie,5,4,20,Cash,In-Store,07-07-2023
+TXN_7374846,Sandwich,1,4,4,Credit Card,Online,29-05-2023
+TXN_9401522,Sandwich,4,4,16,Digital Wallet,In-Store,16-11-2023
+TXN_8250651,Sandwich,4,4,16,Digital Wallet,In-Store,13-03-2023
+TXN_7191245,Cake,4,3,12,Phonepay,Takeaway,22-05-2023
+TXN_8982764,Cake,5,3,15,Digital Wallet,Takeaway,23-11-2023
+TXN_8669422,Tea,4,3,12,Cash,Takeaway,15-10-2023
+TXN_1153869,Smoothie,5,4,20,Credit Card,Takeaway,03-11-2023
+TXN_5043774,Sandwich,3,4,12,Cash,Online,08-06-2023
+TXN_1746320,Salad,1,5,5,Cash,Online,14-11-2023
+TXN_1077129,Cookie,1,1,1,Phonepay,In-Store,12-09-2023
+TXN_4865338,Sandwich,4,4,16,Phonepay,In-Store,26-11-2023
+TXN_5616583,Smoothie,1,4,4,Phonepay,Online,13-10-2023
+TXN_2078474,Cookie,2,1,2,Phonepay,Takeaway,03-11-2023
+TXN_2130245,Smoothie,5,4,20,Credit Card,Online,13-11-2023
+TXN_9076216,Cake,1,3,3,Cash,Online,17-12-2023
+TXN_6371987,Tea,5,1.5,8,Phonepay,Takeaway,13-03-2023
+TXN_9913877,Pizza,2,2,4,Credit Card,Online,09-05-2023
+TXN_2084377,Smoothie,1,4,4,Credit Card,Online,22-10-2023
+TXN_1842675,Pizza,4,1,4,Credit Card,Takeaway,23-06-2023
+TXN_8605813,Cookie,1,1,1,Phonepay,Online,30-06-2023
+TXN_9755352,Sandwich,5,4,20,Phonepay,In-Store,13-05-2023
+TXN_7550498,Juice,5,3,15,Phonepay,In-Store,06-02-2023
+TXN_2305908,Coffee,4,2,8,Cash,Online,25-04-2023
+TXN_6953697,Pizza,3,4,12,Phonepay,Takeaway,27-05-2023
+TXN_3495950,Tea,4,1.5,6,Credit Card,In-Store,19-02-2023
+TXN_7557340,Tea,5,1.5,8,Credit Card,In-Store,11-12-2023
+TXN_1157817,Smoothie,1,4,4,Digital Wallet,In-Store,25-04-2023
+TXN_2020318,Tea,3,1.5,4,Digital Wallet,In-Store,12-10-2023
+TXN_8692094,Coffee,5,2,10,Phonepay,Takeaway,30-08-2023
+TXN_9703120,Coffee,3,2,6,Credit Card,Online,02-11-2023
+TXN_1289133,Juice,1,3,3,Cash,Online,19-09-2023
+TXN_1333682,Smoothie,1,4,4,Digital Wallet,Online,28-01-2023
+TXN_2256622,Cookie,2,1,2,Cash,In-Store,04-10-2023
+TXN_1623966,Tea,2,1.5,3,Cash,Takeaway,06-02-2023
+TXN_4912930,Smoothie,3,4,12,Credit Card,In-Store,26-02-2023
+TXN_4942692,Coffee,2,2,4,Phonepay,Takeaway,15-01-2023
+TXN_3723007,Tea,3,1.5,4,Digital Wallet,In-Store,18-05-2023
+TXN_7922392,Sandwich,3,4,12,Phonepay,Online,03-05-2023
+TXN_7498727,Salad,3,5,15,Cash,Online,06-11-2023
+TXN_1222338,Cookie,1,1,1,Phonepay,In-Store,11-10-2023
+TXN_6878866,Smoothie,3,4,12,Credit Card,Online,25-02-2023
+TXN_1260335,Cookie,4,1,4,Digital Wallet,In-Store,06-02-2023
+TXN_9223242,Smoothie,2,4,8,Phonepay,Online,10-09-2023
+TXN_6244211,Smoothie,2,4,8,Phonepay,Online,11-08-2023
+TXN_5446858,Tea,1,1,1,Cash,In-Store,07-11-2023
+TXN_4612864,Tea,3,1.5,4,Phonepay,Online,14-02-2023
+TXN_5411381,Cookie,1,1,1,Phonepay,Online,28-04-2023
+TXN_3047598,Cookie,1,1,1,Phonepay,Online,06-09-2023
+TXN_5754317,Coffee,2,2,4,Credit Card,Takeaway,10-01-2023
+TXN_7496926,Sandwich,3,4,12,Phonepay,In-Store,23-04-2023
+TXN_1726858,Smoothie,3,4,12,Cash,In-Store,06-02-2023
+TXN_7559388,Salad,4,5,20,Digital Wallet,Takeaway,26-02-2023
+TXN_8540499,Cookie,3,1,3,Cash,In-Store,22-01-2023
+TXN_4225756,Cookie,3,1,3,Phonepay,In-Store,10-03-2023
+TXN_6795640,Cookie,4,1,4,Digital Wallet,Takeaway,28-01-2023
+TXN_6702428,Coffee,5,2,10,Cash,Takeaway,11-08-2023
+TXN_8955259,Pizza,2,4,8,Credit Card,Online,18-11-2023
+TXN_4639319,Coffee,5,2,10,Cash,Online,09-01-2023
+TXN_5997803,Coffee,5,2,10,Phonepay,In-Store,03-12-2023
+TXN_1340956,Pizza,4,2,8,Phonepay,Online,26-10-2023
+TXN_1259671,Sandwich,3,4,12,Digital Wallet,In-Store,08-10-2023
+TXN_8319993,Juice,1,3,3,Digital Wallet,Online,06-08-2023
+TXN_8894157,Sandwich,4,4,16,Credit Card,Online,06-02-2023
+TXN_5523450,Salad,5,5,25,Credit Card,Takeaway,02-07-2023
+TXN_7838964,Sandwich,3,4,12,Credit Card,In-Store,15-06-2023
+TXN_2773987,Smoothie,5,4,20,Phonepay,Online,11-01-2023
+TXN_1158829,Tea,1,1.5,2,Credit Card,Online,02-10-2023
+TXN_2523298,Tea,4,1.5,6,Phonepay,In-Store,25-03-2023
+TXN_8685737,Smoothie,2,4,8,Phonepay,In-Store,02-11-2023
+TXN_5634135,Cookie,2,1,2,Phonepay,Online,27-01-2023
+TXN_1524626,Smoothie,2,4,8,Digital Wallet,Online,29-12-2023
+TXN_7275407,Smoothie,2,4,8,Digital Wallet,In-Store,20-10-2023
+TXN_2889622,Juice,4,3,12,Credit Card,Online,01-11-2023
+TXN_6849113,Cookie,1,1,1,Credit Card,Online,14-07-2023
+TXN_2265316,Cookie,3,1,3,Credit Card,In-Store,29-12-2023
+TXN_9472241,Salad,3,5,15,Cash,Takeaway,30-06-2023
+TXN_7345414,Salad,1,5,5,Phonepay,Online,15-02-2023
+TXN_4473352,Cake,1,3,3,Phonepay,In-Store,16-11-2023
+TXN_2814363,Tea,2,1.5,3,Phonepay,Online,02-07-2023
+TXN_7140471,Cake,1,3,3,Credit Card,Online,25-05-2023
+TXN_3119542,Smoothie,1,4,4,Credit Card,Online,31-10-2023
+TXN_7773968,Sandwich,5,4,20,Digital Wallet,Takeaway,24-02-2023
+TXN_9081088,Tea,2,1.5,3,Cash,Takeaway,27-02-2023
+TXN_8559167,Sandwich,5,4,20,Phonepay,Takeaway,09-12-2023
+TXN_1130191,Smoothie,2,4,8,Cash,In-Store,06-04-2023
+TXN_5215451,Sandwich,5,4,20,Digital Wallet,Online,02-11-2023
+TXN_1040764,Coffee,3,2,6,Cash,Takeaway,27-07-2023
+TXN_5457133,Juice,5,3,15,Phonepay,In-Store,03-03-2023
+TXN_8365478,Tea,3,4,12,Cash,Takeaway,06-02-2023
+TXN_2100697,Coffee,3,2,6,Digital Wallet,Takeaway,19-09-2023
+TXN_7676968,Smoothie,4,4,16,Phonepay,In-Store,21-02-2023
+TXN_4134594,Sandwich,3,4,12,Digital Wallet,In-Store,27-09-2023
+TXN_5079340,Cookie,4,1,4,Cash,In-Store,18-08-2023
+TXN_8276635,Tea,4,4,16,Digital Wallet,Takeaway,16-12-2023
+TXN_1380601,Tea,4,1.5,6,Digital Wallet,In-Store,11-03-2023
+TXN_3959152,Juice,1,3,3,Phonepay,In-Store,21-05-2023
+TXN_7776739,Tea,2,1.5,3,Phonepay,Takeaway,23-02-2023
+TXN_7569615,Pizza,2,3,6,Cash,Takeaway,07-06-2023
+TXN_8703771,Cake,5,3,15,Phonepay,In-Store,12-05-2023
+TXN_2052395,Smoothie,3,4,12,Credit Card,In-Store,06-07-2023
+TXN_9421441,Tea,2,4,8,Cash,Online,20-06-2023
+TXN_9065402,Pizza,1,5,5,Cash,Takeaway,22-12-2023
+TXN_3638955,Cookie,2,1,2,Cash,Takeaway,02-09-2023
+TXN_2635532,Pizza,4,4,16,Cash,Takeaway,14-01-2023
+TXN_8256593,Salad,2,5,10,Digital Wallet,Takeaway,09-08-2023
+TXN_5392603,Coffee,1,2,2,Cash,In-Store,14-05-2023
+TXN_6319728,Coffee,2,2,4,Credit Card,In-Store,18-07-2023
+TXN_9263299,Cookie,2,1,2,Credit Card,Takeaway,08-10-2023
+TXN_2301505,Cake,5,3,15,Digital Wallet,Online,21-03-2023
+TXN_5895177,Cake,5,3,15,Phonepay,Online,16-08-2023
+TXN_8751516,Tea,3,1.5,4,Cash,Takeaway,06-02-2023
+TXN_8147357,Tea,5,1.5,8,Phonepay,Takeaway,20-04-2023
+TXN_1436343,Cookie,1,1,1,Credit Card,In-Store,26-11-2023
+TXN_2214698,Salad,4,5,20,Credit Card,Online,10-10-2023
+TXN_7480234,Salad,1,5,5,Cash,Takeaway,10-05-2023
+TXN_3283097,Pizza,5,2,10,Cash,Takeaway,28-02-2023
+TXN_2633602,Pizza,2,3,6,Digital Wallet,In-Store,02-02-2023
+TXN_3093219,Juice,5,3,15,Cash,Online,28-01-2023
+TXN_3515730,Tea,1,1,1,Credit Card,Online,14-08-2023
+TXN_3665733,Coffee,5,2,10,Cash,Takeaway,06-02-2023
+TXN_4010658,Tea,5,1.5,8,Phonepay,Online,26-09-2023
+TXN_2598728,Cake,2,3,6,Credit Card,Online,13-01-2023
+TXN_3390285,Tea,2,1.5,3,Phonepay,Takeaway,06-02-2023
+TXN_8224079,Cookie,5,1,5,Cash,In-Store,16-10-2023
+TXN_1916339,Cake,1,3,3,Cash,In-Store,15-07-2023
+TXN_8611035,Sandwich,5,4,20,Digital Wallet,In-Store,28-05-2023
+TXN_3595735,Tea,4,1.5,6,Digital Wallet,Takeaway,26-03-2023
+TXN_4884822,Cookie,1,1,1,Credit Card,Online,23-04-2023
+TXN_3668051,Cake,1,3,3,Phonepay,Online,17-11-2023
+TXN_6169633,Salad,4,5,20,Credit Card,Takeaway,20-12-2023
+TXN_3884811,Coffee,4,2,8,Credit Card,Online,10-06-2023
+TXN_7050740,Pizza,1,3,3,Cash,Takeaway,12-07-2023
+TXN_1234097,Cookie,4,1,4,Cash,Online,04-12-2023
+TXN_4518102,Tea,5,1.5,8,Credit Card,In-Store,08-02-2023
+TXN_5939055,Coffee,3,2,6,Phonepay,Takeaway,21-10-2023
+TXN_7809183,Pizza,4,1,4,Digital Wallet,Takeaway,08-09-2023
+TXN_6071202,Pizza,1,1,1,Cash,In-Store,07-06-2023
+TXN_8158496,Tea,4,1.5,6,Cash,Online,19-06-2023
+TXN_2726848,Cake,5,3,15,Credit Card,Online,11-09-2023
+TXN_3666858,Cake,4,3,12,Credit Card,In-Store,27-12-2023
+TXN_5499915,Cookie,2,1,2,Digital Wallet,Takeaway,01-02-2023
+TXN_4660753,Juice,1,3,3,Credit Card,Takeaway,04-10-2023
+TXN_8089522,Sandwich,4,4,16,Cash,Takeaway,12-02-2023
+TXN_1564754,Salad,3,5,15,Digital Wallet,In-Store,14-03-2023
+TXN_1824506,Cake,1,3,3,Cash,In-Store,02-03-2023
+TXN_3229758,Coffee,4,2,8,Cash,Takeaway,06-02-2023
+TXN_3677592,Sandwich,2,4,8,Cash,Online,29-05-2023
+TXN_1002457,Cookie,5,1,5,Digital Wallet,Takeaway,29-09-2023
+TXN_8056263,Smoothie,5,4,20,Phonepay,In-Store,20-04-2023
+TXN_4732351,Sandwich,1,4,4,Digital Wallet,In-Store,22-04-2023
+TXN_4980036,Cake,2,3,6,Cash,Takeaway,05-01-2023
+TXN_3022839,Coffee,5,2,10,Digital Wallet,Takeaway,25-08-2023
+TXN_7701070,Coffee,5,2,10,Credit Card,Takeaway,28-07-2023
+TXN_8048037,Sandwich,2,4,8,Digital Wallet,Takeaway,31-03-2023
+TXN_4619029,Sandwich,3,4,12,Credit Card,In-Store,06-02-2023
+TXN_4444463,Cake,4,3,12,Phonepay,Online,16-05-2023
+TXN_1887522,Sandwich,4,4,16,Cash,In-Store,20-02-2023
+TXN_6908953,Tea,1,1.5,2,Phonepay,In-Store,08-12-2023
+TXN_4759769,Sandwich,1,4,4,Phonepay,In-Store,03-08-2023
+TXN_2254479,Tea,2,1.5,3,Phonepay,Takeaway,03-08-2023
+TXN_7555408,Salad,2,5,10,Phonepay,In-Store,06-06-2023
+TXN_6857943,Cake,5,3,15,Phonepay,Takeaway,08-01-2023
+TXN_4796350,Pizza,3,4,12,Phonepay,Takeaway,06-02-2023
+TXN_9552845,Sandwich,3,4,12,Cash,Online,18-02-2023
+TXN_6769465,Juice,5,3,15,Digital Wallet,In-Store,13-06-2023
+TXN_7438831,Coffee,5,2,10,Phonepay,Online,24-12-2023
+TXN_3871837,Tea,3,1.5,4,Digital Wallet,Takeaway,15-12-2023
+TXN_3656762,Sandwich,2,4,8,Phonepay,Takeaway,31-07-2023
+TXN_4980282,Cake,1,3,3,Digital Wallet,In-Store,22-10-2023
+TXN_3580786,Tea,1,1.5,2,Phonepay,In-Store,28-03-2023
+TXN_4355728,Tea,4,3,12,Credit Card,Online,06-03-2023
+TXN_2508476,Smoothie,5,4,20,Cash,Online,14-04-2023
+TXN_1325631,Cake,4,3,12,Credit Card,In-Store,11-02-2023
+TXN_8209125,Cookie,3,1,3,Credit Card,Takeaway,30-01-2023
+TXN_1751164,Salad,2,5,10,Cash,Online,11-09-2023
+TXN_3730415,Cake,4,3,12,Credit Card,Takeaway,09-04-2023
+TXN_4134253,Tea,4,1.5,6,Cash,In-Store,07-10-2023
+TXN_3256497,Coffee,2,2,4,Cash,Online,20-08-2023
+TXN_8763180,Smoothie,1,4,4,Phonepay,Takeaway,16-04-2023
+TXN_3219175,Sandwich,5,4,20,Phonepay,Online,23-02-2023
+TXN_6234872,Smoothie,1,4,4,Phonepay,Online,23-12-2023
+TXN_7919440,Tea,4,1.5,6,Cash,Online,19-08-2023
+TXN_7558641,Coffee,1,2,2,Digital Wallet,In-Store,22-12-2023
+TXN_9940220,Juice,2,3,6,Phonepay,Takeaway,05-03-2023
+TXN_8805984,Juice,2,3,6,Credit Card,Takeaway,06-02-2023
+TXN_2130483,Tea,4,1.5,6,Cash,Online,25-11-2023
+TXN_1972584,Sandwich,5,4,20,Digital Wallet,Online,10-07-2023
+TXN_3150792,Coffee,5,2,10,Cash,Online,02-07-2023
+TXN_5511805,Juice,1,3,3,Phonepay,Takeaway,03-06-2023
+TXN_7292548,Cookie,4,1,4,Digital Wallet,Online,24-03-2023
+TXN_2169664,Smoothie,1,4,4,Cash,Online,23-07-2023
+TXN_3234877,Coffee,4,2,8,Cash,Takeaway,29-07-2023
+TXN_6368719,Cake,4,3,12,Credit Card,Takeaway,03-01-2023
+TXN_8852585,Sandwich,4,4,16,Credit Card,Takeaway,05-01-2023
+TXN_9201010,Salad,1,5,5,Credit Card,Takeaway,15-03-2023
+TXN_7817014,Cookie,1,1,1,Digital Wallet,Takeaway,06-02-2023
+TXN_2873990,Sandwich,2,4,8,Phonepay,Online,12-03-2023
+TXN_3088796,Sandwich,4,4,16,Credit Card,Online,16-08-2023
+TXN_3414935,Coffee,4,2,8,Phonepay,In-Store,03-08-2023
+TXN_3607652,Salad,4,5,20,Digital Wallet,In-Store,05-06-2023
+TXN_8502094,Juice,5,3,15,Credit Card,In-Store,21-03-2023
+TXN_9068244,Sandwich,5,4,20,Digital Wallet,Takeaway,19-10-2023
+TXN_2696664,Cookie,5,1,5,Phonepay,In-Store,07-01-2023
+TXN_7661609,Pizza,1,3,3,Phonepay,In-Store,29-11-2023
+TXN_7633490,Cookie,1,1,1,Cash,Takeaway,27-10-2023
+TXN_9292230,Tea,4,1.5,6,Credit Card,In-Store,14-07-2023
+TXN_5081978,Cake,1,3,3,Phonepay,In-Store,19-10-2023
+TXN_7314409,Smoothie,5,4,20,Credit Card,Online,06-08-2023
+TXN_4573576,Tea,2,3,6,Cash,In-Store,05-07-2023
+TXN_5645919,Coffee,3,2,6,Credit Card,Online,17-01-2023
+TXN_8006668,Tea,4,1.5,6,Credit Card,In-Store,22-12-2023
+TXN_8818168,Juice,4,3,12,Digital Wallet,Online,20-07-2023
+TXN_4369043,Juice,2,3,6,Cash,Online,25-03-2023
+TXN_3560062,Cookie,1,1,1,Cash,In-Store,20-03-2023
+TXN_4769307,Tea,5,1.5,8,Digital Wallet,Online,24-12-2023
+TXN_7270652,Sandwich,1,4,4,Phonepay,Takeaway,14-05-2023
+TXN_4991815,Cake,5,3,15,Cash,Online,06-11-2023
+TXN_6360132,Sandwich,4,4,16,Cash,Takeaway,16-09-2023
+TXN_8199829,Cake,2,3,6,Credit Card,Online,29-07-2023
+TXN_9166449,Pizza,4,1,4,Phonepay,Takeaway,31-07-2023
+TXN_7864939,Sandwich,3,4,12,Digital Wallet,In-Store,19-08-2023
+TXN_2640701,Salad,3,5,15,Phonepay,Takeaway,07-05-2023
+TXN_3740963,Salad,2,5,10,Digital Wallet,Takeaway,22-01-2023
+TXN_8101633,Sandwich,2,4,8,Phonepay,In-Store,10-08-2023
+TXN_6063966,Juice,2,3,6,Digital Wallet,Takeaway,24-10-2023
+TXN_3779640,Tea,1,1.5,2,Digital Wallet,In-Store,16-05-2023
+TXN_8778598,Sandwich,3,4,12,Cash,Online,02-09-2023
+TXN_7550103,Cake,5,3,15,Phonepay,Takeaway,19-01-2023
+TXN_3664656,Cookie,5,1,5,Phonepay,Takeaway,13-08-2023
+TXN_7296560,Juice,2,3,6,Phonepay,Online,20-10-2023
+TXN_8136881,Salad,3,5,15,Cash,In-Store,28-08-2023
+TXN_3981449,Smoothie,2,4,8,Cash,In-Store,21-06-2023
+TXN_2641386,Sandwich,3,4,12,Phonepay,Takeaway,25-03-2023
+TXN_1485417,Cookie,3,1,3,Cash,In-Store,06-02-2023
+TXN_4033802,Tea,3,1.5,4,Cash,Takeaway,02-03-2023
+TXN_7752124,Pizza,3,4,12,Credit Card,Online,09-12-2023
+TXN_9762324,Cake,2,3,6,Cash,In-Store,06-02-2023
+TXN_1628509,Smoothie,5,4,20,Phonepay,Takeaway,06-02-2023
+TXN_8259257,Tea,2,1.5,3,Phonepay,In-Store,13-12-2023
+TXN_4183823,Sandwich,4,4,16,Credit Card,Online,28-03-2023
+TXN_2239041,Pizza,4,1.5,6,Phonepay,In-Store,24-10-2023
+TXN_4696439,Cookie,1,1,1,Cash,In-Store,27-05-2023
+TXN_8826983,Smoothie,5,4,20,Cash,In-Store,14-01-2023
+TXN_8267034,Juice,2,3,6,Phonepay,Takeaway,20-06-2023
+TXN_1959334,Coffee,3,2,6,Phonepay,Online,29-06-2023
+TXN_6842808,Tea,2,1.5,3,Phonepay,Online,22-10-2023
+TXN_2947822,Cake,4,3,12,Digital Wallet,In-Store,27-10-2023
+TXN_5531712,Tea,2,1.5,3,Cash,Online,09-01-2023
+TXN_2148838,Sandwich,2,4,8,Credit Card,Online,05-08-2023
+TXN_1330506,Cookie,3,1,3,Digital Wallet,Online,10-11-2023
+TXN_5898743,Juice,4,3,12,Phonepay,Takeaway,06-02-2023
+TXN_8957369,Salad,4,5,20,Digital Wallet,Online,18-10-2023
+TXN_9340653,Smoothie,1,4,4,Digital Wallet,Online,19-10-2023
+TXN_2493446,Sandwich,1,4,4,Cash,Takeaway,19-05-2023
+TXN_7098730,Cake,2,3,6,Digital Wallet,Online,10-11-2023
+TXN_7533411,Cookie,1,1,1,Digital Wallet,In-Store,09-11-2023
+TXN_2690314,Tea,5,1.5,8,Cash,In-Store,10-08-2023
+TXN_8171171,Coffee,1,2,2,Phonepay,Takeaway,13-05-2023
+TXN_3791639,Tea,4,3,12,Digital Wallet,Online,06-02-2023
+TXN_2968827,Salad,5,5,25,Digital Wallet,Takeaway,14-09-2023
+TXN_4546375,Pizza,1,5,5,Credit Card,Online,20-02-2023
+TXN_1387401,Cookie,4,1,4,Cash,In-Store,19-10-2023
+TXN_6727029,Tea,2,1.5,3,Phonepay,Takeaway,07-07-2023
+TXN_3917193,Juice,5,3,15,Credit Card,Takeaway,17-11-2023
+TXN_8518516,Sandwich,4,4,16,Phonepay,Online,16-08-2023
+TXN_2062854,Sandwich,4,4,16,Digital Wallet,Takeaway,01-12-2023
+TXN_4075863,Smoothie,3,4,12,Cash,Takeaway,21-05-2023
+TXN_5624860,Tea,3,1.5,4,Credit Card,Takeaway,22-08-2023
+TXN_4621665,Smoothie,5,4,20,Phonepay,Online,17-01-2023
+TXN_6669417,Salad,5,5,25,Phonepay,Takeaway,03-01-2023
+TXN_7837381,Sandwich,5,4,20,Phonepay,Takeaway,17-07-2023
+TXN_1725926,Juice,5,3,15,Credit Card,Online,23-12-2023
+TXN_3403173,Salad,1,5,5,Phonepay,Online,24-06-2023
+TXN_4186681,Pizza,4,1.5,6,Digital Wallet,Online,24-05-2023
+TXN_4152036,Pizza,2,3,6,Cash,Online,06-02-2023
+TXN_4059912,Pizza,3,4,12,Phonepay,Online,21-04-2023
+TXN_3381656,Cake,5,3,15,Cash,Takeaway,26-10-2023
+TXN_9956154,Cake,4,3,12,Phonepay,In-Store,11-05-2023
+TXN_7110444,Pizza,4,5,20,Cash,Online,07-12-2023
+TXN_6250692,Sandwich,1,4,4,Phonepay,Online,01-09-2023
+TXN_1183995,Salad,5,5,25,Digital Wallet,Takeaway,28-03-2023
+TXN_9452225,Tea,1,1.5,2,Phonepay,In-Store,26-02-2023
+TXN_9113574,Coffee,4,2,8,Phonepay,In-Store,04-01-2023
+TXN_5813015,Cookie,5,1,5,Digital Wallet,Online,07-10-2023
+TXN_3213035,Smoothie,4,4,16,Phonepay,In-Store,21-05-2023
+TXN_7578769,Sandwich,5,4,20,Digital Wallet,Takeaway,30-01-2023
+TXN_3515664,Coffee,2,2,4,Cash,Takeaway,25-09-2023
+TXN_6209258,Juice,1,3,3,Credit Card,Online,06-03-2023
+TXN_8594004,Cookie,4,1,4,Credit Card,Online,25-02-2023
+TXN_6422433,Sandwich,5,4,20,Digital Wallet,Takeaway,09-05-2023
+TXN_2865033,Coffee,2,2,4,Cash,Online,03-08-2023
+TXN_5547519,Salad,4,5,20,Phonepay,In-Store,13-05-2023
+TXN_2392263,Salad,5,5,25,Phonepay,Takeaway,08-02-2023
+TXN_3810451,Juice,4,3,12,Phonepay,Online,06-02-2023
+TXN_4669664,Cookie,1,1,1,Digital Wallet,In-Store,21-12-2023
+TXN_7507962,Smoothie,4,4,16,Phonepay,Online,22-06-2023
+TXN_1109715,Cake,1,3,3,Phonepay,In-Store,15-07-2023
+TXN_8320245,Tea,3,1.5,4,Phonepay,Takeaway,09-04-2023
+TXN_5904646,Smoothie,1,4,4,Phonepay,Online,26-03-2023
+TXN_4498526,Smoothie,3,4,12,Credit Card,Online,20-06-2023
+TXN_2744907,Salad,2,5,10,Digital Wallet,Online,06-02-2023
+TXN_5209585,Tea,2,1.5,3,Phonepay,Takeaway,12-08-2023
+TXN_2213556,Coffee,1,2,2,Cash,In-Store,30-05-2023
+TXN_3826038,Salad,1,5,5,Cash,Takeaway,20-10-2023
+TXN_7596587,Tea,3,1.5,4,Credit Card,Online,08-02-2023
+TXN_7380277,Sandwich,4,4,16,Digital Wallet,Takeaway,24-04-2023
+TXN_1353479,Smoothie,4,4,16,Cash,Online,20-09-2023
+TXN_7609853,Sandwich,1,4,4,Digital Wallet,In-Store,22-04-2023
+TXN_9266394,Cookie,2,1,2,Credit Card,In-Store,12-07-2023
+TXN_5448157,Pizza,3,1,3,Credit Card,Online,11-01-2023
+TXN_8298311,Tea,2,1.5,3,Digital Wallet,In-Store,06-02-2023
+TXN_6744866,Tea,4,1.5,6,Phonepay,Takeaway,06-02-2023
+TXN_6152588,Coffee,3,2,6,Cash,Takeaway,21-11-2023
+TXN_6569656,Pizza,5,1,5,Cash,Online,28-02-2023
+TXN_2156206,Smoothie,2,4,8,Phonepay,Online,04-02-2023
+TXN_3142258,Salad,4,5,20,Phonepay,Takeaway,03-11-2023
+TXN_5739806,Smoothie,3,4,12,Credit Card,In-Store,18-09-2023
+TXN_9228978,Coffee,5,2,10,Digital Wallet,In-Store,09-02-2023
+TXN_5897205,Cookie,1,1,1,Phonepay,In-Store,10-06-2023
+TXN_1556652,Cake,5,3,15,Digital Wallet,Online,06-04-2023
+TXN_8608765,Salad,4,5,20,Credit Card,Online,02-09-2023
+TXN_8764825,Smoothie,3,4,12,Cash,Online,06-02-2023
+TXN_7353972,Pizza,4,3,12,Cash,In-Store,02-02-2023
+TXN_1124753,Salad,4,5,20,Digital Wallet,In-Store,19-10-2023
+TXN_9410981,Cookie,2,1,2,Phonepay,Takeaway,07-02-2023
+TXN_9349962,Tea,4,4,16,Phonepay,In-Store,06-02-2023
+TXN_7611120,Juice,2,3,6,Cash,Takeaway,30-03-2023
+TXN_2106959,Sandwich,5,4,20,Digital Wallet,Online,05-09-2023
+TXN_2237115,Coffee,1,2,2,Phonepay,Takeaway,13-01-2023
+TXN_6836137,Cake,4,3,12,Phonepay,In-Store,30-08-2023
+TXN_6316959,Tea,2,1.5,3,Cash,In-Store,10-11-2023
+TXN_2265984,Cookie,5,1,5,Credit Card,Takeaway,18-10-2023
+TXN_6352917,Salad,5,5,25,Cash,Online,05-05-2023
+TXN_9564123,Cake,4,3,12,Credit Card,Online,23-03-2023
+TXN_3946544,Cake,5,3,15,Credit Card,Online,06-02-2023
+TXN_1123138,Salad,1,5,5,Cash,In-Store,10-02-2023
+TXN_9212503,Salad,2,5,10,Digital Wallet,Takeaway,08-10-2023
+TXN_1921262,Sandwich,2,4,8,Phonepay,Online,24-11-2023
+TXN_1259824,Cookie,5,1,5,Digital Wallet,Takeaway,29-04-2023
+TXN_6868049,Juice,5,3,15,Digital Wallet,Online,06-02-2023
+TXN_2806243,Salad,4,5,20,Digital Wallet,Takeaway,14-01-2023
+TXN_9759896,Tea,4,1.5,6,Phonepay,Online,02-12-2023
+TXN_7560807,Salad,2,5,10,Credit Card,Online,16-04-2023
+TXN_3286932,Cookie,1,1,1,Digital Wallet,Takeaway,11-07-2023
+TXN_3481470,Salad,4,5,20,Credit Card,In-Store,24-12-2023
+TXN_9907327,Salad,2,5,10,Credit Card,Online,07-10-2023
+TXN_3469469,Cookie,1,1,1,Digital Wallet,In-Store,25-10-2023
+TXN_2681833,Pizza,3,1,3,Digital Wallet,In-Store,05-10-2023
+TXN_3179966,Tea,2,1.5,3,Digital Wallet,Online,27-05-2023
+TXN_3629351,Cake,1,3,3,Digital Wallet,Online,21-07-2023
+TXN_3142836,Cake,2,3,6,Cash,Online,01-11-2023
+TXN_4998786,Cake,5,3,15,Credit Card,Takeaway,25-10-2023
+TXN_7228816,Salad,1,5,5,Phonepay,In-Store,21-04-2023
+TXN_6904590,Coffee,4,2,8,Credit Card,Online,19-02-2023
+TXN_2126408,Cookie,3,1,3,Cash,Takeaway,19-10-2023
+TXN_8664315,Salad,2,5,10,Cash,Online,14-08-2023
+TXN_8958593,Juice,5,3,15,Digital Wallet,In-Store,08-07-2023
+TXN_2383598,Sandwich,2,4,8,Digital Wallet,In-Store,19-09-2023
+TXN_2211685,Smoothie,1,4,4,Credit Card,In-Store,06-06-2023
+TXN_1503602,Tea,5,1.5,8,Digital Wallet,Online,16-12-2023
+TXN_8716752,Juice,1,3,3,Phonepay,In-Store,05-12-2023
+TXN_4266787,Juice,4,3,12,Credit Card,Takeaway,12-01-2023
+TXN_5933480,Sandwich,3,4,12,Digital Wallet,In-Store,04-09-2023
+TXN_8255965,Juice,2,3,6,Phonepay,In-Store,16-11-2023
+TXN_4364091,Smoothie,1,4,4,Phonepay,Takeaway,14-04-2023
+TXN_9203920,Tea,4,3,12,Phonepay,Takeaway,01-11-2023
+TXN_8964812,Salad,4,5,20,Digital Wallet,Online,14-10-2023
+TXN_6721531,Tea,4,1.5,6,Phonepay,In-Store,06-03-2023
+TXN_5447508,Sandwich,3,4,12,Digital Wallet,Takeaway,28-06-2023
+TXN_5686113,Sandwich,5,4,20,Digital Wallet,In-Store,09-09-2023
+TXN_9239779,Salad,1,5,5,Cash,Online,09-01-2023
+TXN_9265319,Salad,3,5,15,Cash,Online,15-11-2023
+TXN_3397609,Smoothie,2,4,8,Digital Wallet,In-Store,22-07-2023
+TXN_9347203,Sandwich,5,4,20,Cash,In-Store,15-04-2023
+TXN_2132186,Salad,1,5,5,Credit Card,Online,01-02-2023
+TXN_6905718,Salad,5,5,25,Credit Card,In-Store,20-02-2023
+TXN_3130548,Cookie,4,1,4,Phonepay,Takeaway,21-08-2023
+TXN_9356512,Salad,3,5,15,Credit Card,Online,06-06-2023
+TXN_7993951,Tea,2,1.5,3,Digital Wallet,Takeaway,14-12-2023
+TXN_6362093,Tea,3,2,6,Phonepay,Online,19-03-2023
+TXN_4876440,Cookie,3,1,3,Phonepay,Takeaway,01-07-2023
+TXN_9097641,Cake,4,3,12,Cash,Takeaway,16-12-2023
+TXN_1775884,Juice,4,3,12,Cash,Online,08-10-2023
+TXN_8536115,Cake,1,3,3,Credit Card,Takeaway,11-07-2023
+TXN_8032010,Tea,1,1.5,2,Cash,Online,14-06-2023
+TXN_2915281,Cookie,1,1,1,Digital Wallet,In-Store,01-07-2023
+TXN_3468006,Smoothie,3,4,12,Credit Card,Takeaway,28-07-2023
+TXN_7604541,Juice,4,3,12,Credit Card,In-Store,16-04-2023
+TXN_9238689,Cake,1,3,3,Digital Wallet,In-Store,09-03-2023
+TXN_2601689,Salad,4,5,20,Digital Wallet,Takeaway,14-01-2023
+TXN_6428182,Cake,5,3,15,Cash,In-Store,10-11-2023
+TXN_6830557,Coffee,3,2,6,Digital Wallet,Takeaway,08-11-2023
+TXN_6371264,Smoothie,5,4,20,Cash,Takeaway,27-02-2023
+TXN_4663299,Pizza,4,4,16,Digital Wallet,In-Store,26-12-2023
+TXN_9236713,Cookie,5,1,5,Cash,In-Store,13-09-2023
+TXN_1079239,Smoothie,1,4,4,Phonepay,Takeaway,08-02-2023
+TXN_4690833,Cake,1,3,3,Cash,Takeaway,23-05-2023
+TXN_7946489,Juice,1,3,3,Cash,Takeaway,11-09-2023
+TXN_8661288,Salad,2,5,10,Digital Wallet,Takeaway,27-01-2023
+TXN_7187207,Coffee,5,2,10,Cash,Online,18-02-2023
+TXN_4679409,Pizza,1,2,2,Phonepay,In-Store,25-03-2023
+TXN_2866147,Juice,2,3,6,Phonepay,Takeaway,28-08-2023
+TXN_5637677,Pizza,2,3,6,Digital Wallet,Takeaway,24-08-2023
+TXN_7444541,Salad,2,5,10,Cash,Online,29-11-2023
+TXN_6046604,Cookie,5,1,5,Credit Card,Online,29-06-2023
+TXN_6111710,Salad,3,5,15,Credit Card,In-Store,18-06-2023
+TXN_5476465,Cake,4,3,12,Cash,In-Store,23-06-2023
+TXN_1773873,Salad,5,5,25,Credit Card,Takeaway,10-06-2023
+TXN_7688650,Tea,2,1.5,3,Phonepay,Online,26-10-2023
+TXN_4570711,Sandwich,4,4,16,Credit Card,In-Store,11-12-2023
+TXN_5242469,Coffee,4,2,8,Credit Card,Takeaway,01-04-2023
+TXN_2977414,Cake,4,3,12,Phonepay,Online,09-06-2023
+TXN_8938144,Coffee,2,2,4,Credit Card,Online,27-01-2023
+TXN_6434414,Tea,1,2,2,Digital Wallet,Takeaway,10-03-2023
+TXN_1655100,Cake,4,3,12,Credit Card,Takeaway,20-12-2023
+TXN_1526864,Smoothie,3,4,12,Digital Wallet,In-Store,27-01-2023
+TXN_1279428,Salad,1,5,5,Digital Wallet,Online,02-03-2023
+TXN_9866728,Juice,1,3,3,Cash,In-Store,26-10-2023
+TXN_1706201,Coffee,3,2,6,Credit Card,In-Store,23-08-2023
+TXN_2498488,Smoothie,2,4,8,Digital Wallet,Takeaway,06-12-2023
+TXN_5387067,Salad,3,5,15,Credit Card,Online,11-06-2023
+TXN_4431179,Sandwich,3,4,12,Digital Wallet,Takeaway,13-08-2023
+TXN_5051924,Tea,5,1.5,8,Phonepay,Online,23-05-2023
+TXN_9033890,Salad,1,5,5,Phonepay,Takeaway,05-08-2023
+TXN_1777959,Tea,5,1.5,8,Phonepay,Takeaway,18-10-2023
+TXN_3574059,Cake,1,3,3,Phonepay,Online,18-01-2023
+TXN_8386792,Coffee,3,2,6,Phonepay,In-Store,05-10-2023
+TXN_2108894,Sandwich,4,4,16,Credit Card,In-Store,30-10-2023
+TXN_6347472,Tea,1,1.5,2,Digital Wallet,In-Store,22-03-2023
+TXN_8699110,Salad,3,5,15,Phonepay,Takeaway,11-10-2023
+TXN_7188412,Sandwich,1,4,4,Phonepay,Takeaway,08-08-2023
+TXN_6178152,Pizza,5,1.5,8,Phonepay,Online,26-12-2023
+TXN_3477767,Cookie,3,1,3,Digital Wallet,Online,06-02-2023
+TXN_8345723,Sandwich,1,4,4,Digital Wallet,Takeaway,27-08-2023
+TXN_9989415,Smoothie,5,4,20,Credit Card,Takeaway,26-05-2023
+TXN_4476634,Tea,2,1.5,3,Credit Card,Online,16-06-2023
+TXN_1932897,Cookie,1,1,1,Phonepay,Takeaway,06-02-2023
+TXN_2178964,Tea,4,1.5,6,Cash,Takeaway,25-12-2023
+TXN_5213542,Pizza,3,2,6,Credit Card,In-Store,21-08-2023
+TXN_7889745,Sandwich,4,4,16,Phonepay,Online,25-01-2023
+TXN_7020671,Coffee,1,2,2,Phonepay,Online,01-09-2023
+TXN_8297135,Pizza,2,4,8,Phonepay,Online,16-09-2023
+TXN_6581437,Coffee,5,2,10,Digital Wallet,Takeaway,23-10-2023
+TXN_1347965,Cookie,5,1,5,Phonepay,In-Store,19-02-2023
+TXN_6128621,Salad,3,5,15,Digital Wallet,In-Store,10-11-2023
+TXN_5758199,Coffee,4,2,8,Credit Card,Online,11-06-2023
+TXN_3145041,Tea,5,1.5,8,Phonepay,Online,23-09-2023
+TXN_9960577,Sandwich,1,4,4,Cash,Online,24-06-2023
+TXN_1349738,Sandwich,3,4,12,Cash,Online,26-03-2023
+TXN_4512118,Coffee,2,2,4,Digital Wallet,Takeaway,20-04-2023
+TXN_5763254,Coffee,3,2,6,Digital Wallet,Takeaway,15-09-2023
+TXN_8167279,Salad,5,5,25,Phonepay,In-Store,06-02-2023
+TXN_8114990,Juice,1,3,3,Phonepay,Online,27-02-2023
+TXN_4961655,Juice,5,3,15,Cash,Takeaway,06-05-2023
+TXN_5595352,Juice,1,3,3,Cash,In-Store,20-02-2023
+TXN_2070818,Smoothie,5,4,20,Phonepay,Takeaway,05-06-2023
+TXN_1090854,Cookie,3,1,3,Credit Card,In-Store,07-01-2023
+TXN_2004851,Salad,5,5,25,Credit Card,Online,06-02-2023
+TXN_1869814,Tea,1,1.5,2,Digital Wallet,Takeaway,24-05-2023
+TXN_8296518,Pizza,2,4,8,Credit Card,In-Store,08-02-2023
+TXN_6910915,Tea,4,1.5,6,Digital Wallet,Takeaway,06-05-2023
+TXN_3183527,Coffee,3,2,6,Digital Wallet,Online,26-10-2023
+TXN_6916047,Coffee,2,2,4,Digital Wallet,In-Store,06-02-2023
+TXN_2611960,Sandwich,3,4,12,Credit Card,Online,11-09-2023
+TXN_7923140,Coffee,2,2,4,Digital Wallet,Online,02-04-2023
+TXN_5229169,Juice,2,3,6,Credit Card,Takeaway,08-09-2023
+TXN_1018880,Smoothie,5,4,20,Digital Wallet,Online,15-07-2023
+TXN_4074732,Salad,3,5,15,Credit Card,Online,09-04-2023
+TXN_9409728,Tea,2,1.5,3,Phonepay,In-Store,06-03-2023
+TXN_5840223,Tea,4,1.5,6,Cash,Online,20-12-2023
+TXN_5576265,Smoothie,4,4,16,Credit Card,Takeaway,08-04-2023
+TXN_7399897,Tea,4,3,12,Phonepay,Takeaway,14-11-2023
+TXN_5098938,Tea,5,1.5,8,Phonepay,Online,06-05-2023
+TXN_6119823,Tea,2,1.5,3,Phonepay,Takeaway,13-06-2023
+TXN_7308222,Salad,2,5,10,Phonepay,Takeaway,09-03-2023
+TXN_5408625,Cookie,5,1,5,Cash,Online,14-08-2023
+TXN_5969754,Tea,4,1.5,6,Phonepay,Takeaway,29-01-2023
+TXN_5740553,Salad,5,5,25,Phonepay,In-Store,29-08-2023
+TXN_4809497,Tea,4,1.5,6,Cash,In-Store,06-02-2023
+TXN_2392934,Pizza,2,2,4,Phonepay,In-Store,25-11-2023
+TXN_5728991,Salad,2,5,10,Phonepay,Online,01-01-2023
+TXN_1046394,Smoothie,1,4,4,Cash,In-Store,29-04-2023
+TXN_3228823,Tea,5,1.5,8,Phonepay,Online,06-01-2023
+TXN_2269396,Coffee,3,2,6,Digital Wallet,In-Store,26-10-2023
+TXN_9263967,Cookie,3,1,3,Credit Card,In-Store,14-09-2023
+TXN_6540946,Juice,4,3,12,Digital Wallet,Online,08-10-2023
+TXN_2914088,Salad,5,5,25,Cash,In-Store,22-03-2023
+TXN_7109358,Salad,5,5,25,Digital Wallet,Online,02-05-2023
+TXN_4498370,Smoothie,4,4,16,Phonepay,Online,24-07-2023
+TXN_4015710,Juice,4,3,12,Cash,Online,18-05-2023
+TXN_4600048,Cookie,2,1,2,Cash,Online,30-10-2023
+TXN_2108486,Juice,4,3,12,Digital Wallet,Takeaway,28-12-2023
+TXN_7019782,Smoothie,5,4,20,Phonepay,Online,16-10-2023
+TXN_4387303,Cookie,1,1,1,Phonepay,Online,27-06-2023
+TXN_4637016,Salad,3,5,15,Credit Card,In-Store,06-02-2023
+TXN_7786214,Smoothie,1,4,4,Credit Card,Online,25-11-2023
+TXN_9587884,Tea,2,1.5,3,Phonepay,Online,05-01-2023
+TXN_4625910,Juice,1,3,3,Phonepay,Online,17-01-2023
+TXN_8250731,Cookie,2,1,2,Cash,Online,24-08-2023
+TXN_3605929,Smoothie,2,4,8,Credit Card,Online,26-04-2023
+TXN_4953450,Cookie,4,1,4,Phonepay,In-Store,10-03-2023
+TXN_5315441,Smoothie,5,4,20,Digital Wallet,In-Store,31-10-2023
+TXN_9196322,Cookie,4,1,4,Digital Wallet,In-Store,12-08-2023
+TXN_4009547,Juice,4,3,12,Credit Card,Online,13-05-2023
+TXN_3394710,Sandwich,1,4,4,Digital Wallet,In-Store,22-10-2023
+TXN_8354174,Pizza,3,2,6,Credit Card,Online,29-12-2023
+TXN_5931292,Pizza,2,4,8,Credit Card,In-Store,18-12-2023
+TXN_2109416,Sandwich,1,4,4,Phonepay,In-Store,21-09-2023
+TXN_8776606,Pizza,4,5,20,Digital Wallet,Takeaway,24-07-2023
+TXN_2393500,Juice,1,3,3,Credit Card,In-Store,15-12-2023
+TXN_9738758,Coffee,1,2,2,Cash,In-Store,31-12-2023
+TXN_7838465,Sandwich,3,4,12,Credit Card,Takeaway,15-06-2023
+TXN_2447261,Cookie,3,1,3,Credit Card,Takeaway,15-10-2023
+TXN_9036453,Tea,1,4,4,Digital Wallet,Takeaway,08-02-2023
+TXN_2611990,Cookie,3,1,3,Digital Wallet,Takeaway,25-10-2023
+TXN_1460963,Coffee,3,2,6,Cash,In-Store,10-02-2023
+TXN_1713128,Smoothie,3,4,12,Credit Card,Online,01-05-2023
+TXN_4501168,Pizza,1,1.5,2,Phonepay,In-Store,28-06-2023
+TXN_2840323,Tea,4,1.5,6,Credit Card,Online,07-05-2023
+TXN_6691767,Salad,2,5,10,Cash,Takeaway,05-02-2023
+TXN_7280191,Coffee,3,2,6,Phonepay,Takeaway,23-08-2023
+TXN_6932070,Tea,4,1.5,6,Credit Card,In-Store,10-06-2023
+TXN_3502743,Tea,5,4,20,Phonepay,Online,28-02-2023
+TXN_2815335,Juice,5,3,15,Cash,Online,30-03-2023
+TXN_4916272,Tea,3,1.5,4,Phonepay,Online,03-03-2023
+TXN_7940202,Tea,1,4,4,Digital Wallet,Online,23-07-2023
+TXN_5489408,Cookie,1,1,1,Phonepay,In-Store,02-05-2023
+TXN_4640977,Cookie,3,1,3,Credit Card,In-Store,11-02-2023
+TXN_8563346,Pizza,3,2,6,Credit Card,Online,24-10-2023
+TXN_3172751,Juice,5,3,15,Credit Card,Online,06-02-2023
+TXN_8973563,Coffee,1,2,2,Phonepay,Online,08-10-2023
+TXN_4827371,Salad,2,5,10,Phonepay,Takeaway,20-06-2023
+TXN_1559313,Smoothie,2,4,8,Credit Card,Online,02-12-2023
+TXN_7384923,Sandwich,2,4,8,Phonepay,Takeaway,24-01-2023
+TXN_7906197,Sandwich,5,4,20,Credit Card,In-Store,02-01-2023
+TXN_9018535,Cookie,2,1,2,Digital Wallet,Takeaway,05-05-2023
+TXN_9103318,Sandwich,2,4,8,Phonepay,Online,13-11-2023
+TXN_8066743,Tea,3,1.5,4,Cash,Takeaway,13-11-2023
+TXN_9658677,Cake,4,3,12,Cash,Takeaway,06-02-2023
+TXN_8647575,Tea,2,1.5,3,Cash,Online,08-02-2023
+TXN_6376175,Juice,4,3,12,Digital Wallet,Takeaway,24-02-2023
+TXN_9840274,Sandwich,5,4,20,Phonepay,Takeaway,25-02-2023
+TXN_4912458,Cake,4,3,12,Phonepay,Takeaway,12-06-2023
+TXN_7982985,Cookie,1,1,1,Credit Card,Online,27-01-2023
+TXN_2855581,Coffee,4,2,8,Credit Card,Online,23-10-2023
+TXN_4005014,Sandwich,1,4,4,Digital Wallet,Takeaway,10-07-2023
+TXN_3106215,Smoothie,3,4,12,Phonepay,Takeaway,15-04-2023
+TXN_4478185,Cake,2,3,6,Cash,In-Store,25-08-2023
+TXN_7815651,Salad,1,5,5,Cash,In-Store,16-01-2023
+TXN_3461209,Juice,4,3,12,Credit Card,In-Store,26-04-2023
+TXN_9498325,Salad,1,5,5,Phonepay,Online,04-04-2023
+TXN_1026827,Cookie,4,1,4,Digital Wallet,In-Store,02-01-2023
+TXN_4479052,Salad,4,5,20,Digital Wallet,In-Store,05-12-2023
+TXN_7269513,Salad,3,5,15,Cash,Online,12-05-2023
+TXN_5134545,Tea,5,1.5,8,Digital Wallet,Online,17-10-2023
+TXN_7997144,Juice,4,3,12,Credit Card,Online,25-02-2023
+TXN_7315198,Salad,2,5,10,Phonepay,Online,23-09-2023
+TXN_4339682,Salad,5,5,25,Phonepay,In-Store,04-03-2023
+TXN_5369555,Juice,4,3,12,Cash,Takeaway,24-02-2023
+TXN_6208034,Cake,1,3,3,Digital Wallet,Online,29-08-2023
+TXN_8187656,Tea,4,1.5,6,Credit Card,Takeaway,01-05-2023
+TXN_6463415,Coffee,3,2,6,Digital Wallet,In-Store,12-04-2023
+TXN_1461895,Juice,5,3,15,Phonepay,Online,17-06-2023
+TXN_3197752,Smoothie,2,4,8,Phonepay,Online,10-03-2023
+TXN_3112175,Coffee,4,2,8,Cash,Online,16-03-2023
+TXN_6439579,Tea,5,1.5,8,Credit Card,Online,23-03-2023
+TXN_4944121,Pizza,2,2,4,Phonepay,Online,29-05-2023
+TXN_5590805,Cake,1,3,3,Phonepay,Takeaway,25-01-2023
+TXN_3519066,Cake,1,3,3,Phonepay,Takeaway,08-11-2023
+TXN_8034156,Sandwich,1,4,4,Cash,In-Store,22-07-2023
+TXN_2163229,Cookie,4,1,4,Cash,Takeaway,21-12-2023
+TXN_1343750,Cookie,2,1,2,Digital Wallet,Takeaway,15-02-2023
+TXN_6387964,Tea,5,1.5,8,Digital Wallet,Online,07-08-2023
+TXN_2743397,Cake,2,3,6,Digital Wallet,Online,03-10-2023
+TXN_8022689,Tea,1,1.5,2,Cash,Takeaway,15-06-2023
+TXN_9392028,Salad,5,5,25,Credit Card,In-Store,13-01-2023
+TXN_3547825,Cookie,3,1,3,Phonepay,Takeaway,04-09-2023
+TXN_9101792,Coffee,5,2,10,Cash,Online,13-06-2023
+TXN_3463928,Tea,4,1.5,6,Credit Card,In-Store,07-06-2023
+TXN_8503406,Smoothie,2,4,8,Digital Wallet,Online,15-02-2023
+TXN_1992966,Smoothie,5,4,20,Phonepay,In-Store,09-08-2023
+TXN_2179458,Tea,1,3,3,Cash,In-Store,23-10-2023
+TXN_5648512,Pizza,4,3,12,Phonepay,Takeaway,30-01-2023
+TXN_8689416,Juice,5,3,15,Phonepay,Online,19-03-2023
+TXN_1964555,Smoothie,2,4,8,Digital Wallet,Online,11-04-2023
+TXN_9402247,Salad,3,5,15,Digital Wallet,Online,06-02-2023
+TXN_8868960,Salad,5,5,25,Phonepay,Online,06-02-2023
+TXN_1794862,Cake,2,3,6,Cash,Online,16-07-2023
+TXN_5780615,Smoothie,3,4,12,Cash,Online,24-12-2023
+TXN_2416816,Smoothie,5,4,20,Digital Wallet,In-Store,19-10-2023
+TXN_8005682,Coffee,2,2,4,Credit Card,Online,16-03-2023
+TXN_1778707,Salad,5,5,25,Credit Card,Takeaway,26-03-2023
+TXN_9959813,Sandwich,4,4,16,Digital Wallet,Online,05-09-2023
+TXN_7675823,Tea,5,1.5,8,Phonepay,Online,06-02-2023
+TXN_3110343,Tea,5,1.5,8,Digital Wallet,Takeaway,24-06-2023
+TXN_7913451,Sandwich,5,4,20,Credit Card,Online,05-12-2023
+TXN_1901729,Cake,2,3,6,Phonepay,Takeaway,18-03-2023
+TXN_5934059,Juice,4,3,12,Phonepay,Online,26-09-2023
+TXN_8717428,Salad,3,5,15,Digital Wallet,Online,06-02-2023
+TXN_2098878,Juice,2,3,6,Phonepay,Takeaway,19-08-2023
+TXN_9536472,Juice,5,3,15,Phonepay,Online,12-11-2023
+TXN_6696913,Cake,4,3,12,Phonepay,Online,22-10-2023
+TXN_9561832,Tea,3,4,12,Digital Wallet,Online,29-10-2023
+TXN_8888153,Coffee,5,2,10,Phonepay,Online,16-12-2023
+TXN_3790025,Pizza,1,4,4,Cash,Online,07-10-2023
+TXN_2820693,Salad,3,5,15,Cash,Takeaway,05-05-2023
+TXN_5661147,Cake,1,3,3,Phonepay,Takeaway,06-11-2023
+TXN_3746260,Smoothie,5,4,20,Digital Wallet,Takeaway,26-08-2023
+TXN_7805035,Smoothie,3,4,12,Phonepay,In-Store,18-05-2023
+TXN_2058243,Smoothie,5,4,20,Phonepay,Takeaway,19-03-2023
+TXN_5710748,Salad,1,5,5,Phonepay,Online,31-10-2023
+TXN_3725837,Coffee,5,2,10,Cash,In-Store,22-10-2023
+TXN_5132327,Smoothie,5,4,20,Cash,Online,25-01-2023
+TXN_4594922,Salad,2,5,10,Credit Card,Takeaway,19-06-2023
+TXN_5163686,Salad,5,5,25,Credit Card,In-Store,29-05-2023
+TXN_5445318,Cookie,1,1,1,Digital Wallet,Online,16-02-2023
+TXN_2391446,Sandwich,3,4,12,Phonepay,In-Store,06-12-2023
+TXN_2826603,Salad,2,5,10,Digital Wallet,Takeaway,22-06-2023
+TXN_3489940,Pizza,3,1,3,Credit Card,Online,15-12-2023
+TXN_7679707,Tea,1,1.5,2,Credit Card,In-Store,22-07-2023
+TXN_3831364,Tea,1,1.5,2,Digital Wallet,Online,03-03-2023
+TXN_5038513,Cookie,2,1,2,Digital Wallet,Takeaway,24-10-2023
+TXN_5007619,Cake,5,3,15,Credit Card,In-Store,05-07-2023
+TXN_5124870,Tea,1,1.5,2,Digital Wallet,Online,11-08-2023
+TXN_8229546,Smoothie,2,4,8,Cash,Online,16-10-2023
+TXN_3173923,Cookie,2,1,2,Digital Wallet,Online,29-06-2023
+TXN_8460786,Coffee,1,2,2,Cash,Online,17-05-2023
+TXN_7078232,Pizza,5,3,15,Digital Wallet,Takeaway,21-11-2023
+TXN_7833800,Coffee,2,2,4,Phonepay,Takeaway,06-02-2023
+TXN_9625287,Juice,2,3,6,Cash,In-Store,08-07-2023
+TXN_3135132,Sandwich,4,4,16,Credit Card,Takeaway,06-02-2023
+TXN_4779440,Cookie,1,1,1,Phonepay,Online,12-07-2023
+TXN_7337979,Coffee,1,2,2,Digital Wallet,In-Store,27-05-2023
+TXN_1713098,Smoothie,4,4,16,Phonepay,Online,22-11-2023
+TXN_5325729,Coffee,5,2,10,Digital Wallet,Online,04-05-2023
+TXN_5630457,Smoothie,1,4,4,Credit Card,Takeaway,01-03-2023
+TXN_4167859,Coffee,5,2,10,Phonepay,Takeaway,17-08-2023
+TXN_1122140,Sandwich,4,4,16,Cash,Online,19-06-2023
+TXN_7484682,Juice,1,3,3,Cash,Online,28-12-2023
+TXN_5182042,Sandwich,4,4,16,Phonepay,Takeaway,25-02-2023
+TXN_4040989,Sandwich,1,4,4,Phonepay,Online,02-03-2023
+TXN_2190793,Pizza,4,1,4,Credit Card,Takeaway,29-07-2023
+TXN_3663712,Tea,4,1.5,6,Digital Wallet,Takeaway,22-09-2023
+TXN_9140598,Juice,1,3,3,Digital Wallet,Takeaway,10-07-2023
+TXN_5657259,Tea,2,1.5,3,Phonepay,In-Store,03-03-2023
+TXN_4316299,Tea,2,1.5,3,Credit Card,In-Store,06-02-2023
+TXN_5601300,Coffee,2,2,4,Digital Wallet,Online,24-02-2023
+TXN_9904662,Smoothie,1,4,4,Phonepay,In-Store,19-11-2023
+TXN_3696194,Salad,2,5,10,Credit Card,In-Store,27-11-2023
+TXN_2964638,Salad,2,5,10,Digital Wallet,In-Store,28-09-2023
+TXN_8336656,Salad,5,5,25,Cash,Takeaway,02-12-2023
+TXN_2024121,Juice,5,3,15,Digital Wallet,In-Store,06-11-2023
+TXN_6287890,Tea,5,1.5,8,Credit Card,Takeaway,07-02-2023
+TXN_4712887,Tea,5,1.5,8,Credit Card,Online,04-01-2023
+TXN_4336892,Cookie,2,1,2,Phonepay,In-Store,04-06-2023
+TXN_5447694,Smoothie,1,4,4,Digital Wallet,In-Store,18-11-2023
+TXN_2492058,Smoothie,5,4,20,Cash,Online,22-09-2023
+TXN_3439712,Juice,4,3,12,Phonepay,In-Store,04-04-2023
+TXN_5350401,Sandwich,2,4,8,Digital Wallet,In-Store,28-10-2023
+TXN_8999006,Smoothie,1,4,4,Cash,Online,07-02-2023
+TXN_8514689,Juice,5,3,15,Phonepay,Online,15-04-2023
+TXN_1866028,Tea,5,1.5,8,Credit Card,Takeaway,12-06-2023
+TXN_8379141,Salad,1,5,5,Phonepay,In-Store,01-10-2023
+TXN_9152264,Cake,1,3,3,Digital Wallet,Takeaway,15-03-2023
+TXN_2287941,Pizza,1,1,1,Phonepay,Online,22-09-2023
+TXN_3794585,Sandwich,1,4,4,Credit Card,In-Store,10-02-2023
+TXN_3856427,Juice,4,3,12,Phonepay,In-Store,25-03-2023
+TXN_9890874,Sandwich,5,4,20,Cash,In-Store,02-09-2023
+TXN_3945716,Tea,2,1.5,3,Phonepay,Online,17-09-2023
+TXN_6254003,Tea,2,5,10,Phonepay,Online,02-11-2023
+TXN_3101575,Coffee,2,2,4,Phonepay,Takeaway,03-12-2023
+TXN_4874685,Smoothie,1,4,4,Credit Card,In-Store,06-02-2023
+TXN_6269119,Tea,2,3,6,Digital Wallet,Takeaway,19-07-2023
+TXN_6024625,Coffee,5,2,10,Digital Wallet,Takeaway,13-09-2023
+TXN_7470910,Salad,2,5,10,Cash,In-Store,22-11-2023
+TXN_9911345,Cookie,1,1,1,Digital Wallet,Online,14-04-2023
+TXN_1116119,Smoothie,4,4,16,Digital Wallet,In-Store,07-08-2023
+TXN_3471223,Coffee,1,2,2,Digital Wallet,In-Store,08-10-2023
+TXN_4491072,Smoothie,4,4,16,Credit Card,Online,03-12-2023
+TXN_2053993,Tea,2,1.5,3,Phonepay,Takeaway,21-09-2023
+TXN_9086709,Cake,1,3,3,Phonepay,In-Store,04-05-2023
+TXN_1646009,Pizza,4,5,20,Credit Card,Online,11-10-2023
+TXN_8692653,Juice,2,3,6,Cash,Takeaway,01-11-2023
+TXN_5021925,Tea,4,1.5,6,Cash,In-Store,07-05-2023
+TXN_1104849,Pizza,4,4,16,Digital Wallet,Takeaway,05-07-2023
+TXN_6358073,Sandwich,3,4,12,Phonepay,Online,06-02-2023
+TXN_7764154,Salad,2,5,10,Credit Card,Takeaway,09-12-2023
+TXN_5651348,Tea,3,5,15,Cash,Takeaway,04-11-2023
+TXN_4125165,Coffee,5,2,10,Cash,Online,16-04-2023
+TXN_5014959,Cookie,2,1,2,Credit Card,In-Store,28-11-2023
+TXN_8811565,Juice,5,3,15,Credit Card,Online,01-10-2023
+TXN_9868382,Coffee,2,2,4,Digital Wallet,Online,02-06-2023
+TXN_7063124,Cake,1,3,3,Phonepay,Takeaway,10-04-2023
+TXN_2291079,Coffee,1,2,2,Cash,Online,07-10-2023
+TXN_5348445,Salad,5,5,25,Digital Wallet,In-Store,15-11-2023
+TXN_8920751,Tea,2,1.5,3,Phonepay,Online,20-04-2023
+TXN_7215985,Tea,4,1.5,6,Credit Card,In-Store,07-08-2023
+TXN_7448296,Cookie,1,1,1,Credit Card,In-Store,15-11-2023
+TXN_2625324,Coffee,1,2,2,Phonepay,Online,02-09-2023
+TXN_3542902,Smoothie,1,4,4,Phonepay,In-Store,10-06-2023
+TXN_1494608,Tea,3,1.5,4,Credit Card,In-Store,07-05-2023
+TXN_7615147,Sandwich,4,4,16,Cash,In-Store,19-05-2023
+TXN_3426892,Salad,4,5,20,Credit Card,Online,23-05-2023
+TXN_5892508,Smoothie,1,4,4,Credit Card,Takeaway,21-03-2023
+TXN_5546684,Coffee,1,2,2,Credit Card,In-Store,02-10-2023
+TXN_6846047,Salad,1,5,5,Digital Wallet,Online,02-04-2023
+TXN_5373527,Sandwich,2,4,8,Phonepay,Online,26-06-2023
+TXN_6402128,Sandwich,4,4,16,Digital Wallet,In-Store,09-11-2023
+TXN_5009706,Sandwich,2,4,8,Digital Wallet,In-Store,20-09-2023
+TXN_7223120,Juice,1,3,3,Phonepay,Online,13-03-2023
+TXN_1991104,Juice,2,3,6,Digital Wallet,Takeaway,29-11-2023
+TXN_3380698,Coffee,3,2,6,Credit Card,Takeaway,15-12-2023
+TXN_9084554,Tea,4,4,16,Credit Card,In-Store,08-06-2023
+TXN_2996948,Smoothie,3,4,12,Phonepay,Online,25-06-2023
+TXN_1148945,Coffee,1,2,2,Phonepay,Online,05-09-2023
+TXN_2078577,Tea,4,1.5,6,Credit Card,Online,31-01-2023
+TXN_4007285,Sandwich,5,4,20,Digital Wallet,Online,16-01-2023
+TXN_2336708,Pizza,2,3,6,Cash,In-Store,16-06-2023
+TXN_1512118,Salad,4,5,20,Cash,In-Store,01-03-2023
+TXN_8623443,Tea,3,5,15,Credit Card,In-Store,04-09-2023
+TXN_5654490,Tea,4,1.5,6,Credit Card,Online,22-05-2023
+TXN_4033888,Sandwich,2,4,8,Cash,In-Store,04-02-2023
+TXN_4591512,Tea,2,1.5,3,Phonepay,Online,11-08-2023
+TXN_6886495,Cookie,4,1,4,Cash,Online,07-08-2023
+TXN_9218683,Cake,2,3,6,Digital Wallet,In-Store,06-02-2023
+TXN_2153529,Cookie,1,1,1,Credit Card,Online,11-09-2023
+TXN_3688181,Cake,1,3,3,Phonepay,Takeaway,23-08-2023
+TXN_2482129,Juice,1,3,3,Cash,Online,12-12-2023
+TXN_4146452,Smoothie,1,4,4,Phonepay,Takeaway,31-05-2023
+TXN_9553579,Cake,2,3,6,Credit Card,In-Store,03-10-2023
+TXN_3854285,Salad,3,5,15,Cash,Takeaway,18-07-2023
+TXN_5614488,Sandwich,1,4,4,Credit Card,Takeaway,22-07-2023
+TXN_6187083,Cake,5,3,15,Phonepay,In-Store,02-06-2023
+TXN_1521486,Salad,4,5,20,Phonepay,Online,28-01-2023
+TXN_6868182,Pizza,5,4,20,Credit Card,Online,02-01-2023
+TXN_6035534,Salad,4,5,20,Credit Card,In-Store,18-12-2023
+TXN_8781128,Sandwich,5,4,20,Digital Wallet,Takeaway,06-02-2023
+TXN_7670743,Salad,4,5,20,Phonepay,In-Store,28-04-2023
+TXN_7201724,Salad,1,5,5,Cash,Takeaway,20-03-2023
+TXN_2881199,Smoothie,1,4,4,Digital Wallet,Online,05-03-2023
+TXN_3616362,Smoothie,5,4,20,Digital Wallet,In-Store,02-12-2023
+TXN_6007079,Pizza,2,1,2,Credit Card,In-Store,09-10-2023
+TXN_3163383,Tea,2,1.5,3,Phonepay,In-Store,24-10-2023
+TXN_1413304,Pizza,5,5,25,Phonepay,Takeaway,17-03-2023
+TXN_4907812,Sandwich,2,4,8,Digital Wallet,In-Store,11-08-2023
+TXN_7894514,Cake,1,3,3,Phonepay,Online,25-09-2023
+TXN_6450138,Cake,1,3,3,Credit Card,Takeaway,13-04-2023
+TXN_9874588,Sandwich,2,4,8,Phonepay,Takeaway,04-06-2023
+TXN_6732989,Salad,2,5,10,Credit Card,Online,29-04-2023
+TXN_5442610,Juice,2,3,6,Phonepay,Takeaway,10-12-2023
+TXN_2155368,Pizza,2,1,2,Digital Wallet,Takeaway,06-02-2023
+TXN_5236892,Pizza,1,3,3,Digital Wallet,Takeaway,09-03-2023
+TXN_9328595,Tea,2,1.5,3,Cash,Online,24-10-2023
+TXN_1324930,Sandwich,5,4,20,Credit Card,Takeaway,11-01-2023
